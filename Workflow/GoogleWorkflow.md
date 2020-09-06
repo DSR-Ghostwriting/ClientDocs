@@ -12,7 +12,7 @@ Firstly, I populate my client folders in Google Docs from a template.
 
 I created shared and 'not shared' folders like this
 
-![](/Images/1.png)
+![](/Workflow/Images/1.png)
 
 Please provide a list of all the users in your organization that will need access to the Google Docs.
 
