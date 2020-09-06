@@ -1,0 +1,3 @@
+## My Google Docs workflow 
+
+Over the years, I have worked with quite a number of clients of clients in Google Docs. As a Linux user, I prefer using Google Docs to Microsoft Office (less cross-platform compatability glitches). However, at the same time, it brings with it some challenges. In light of that, I have developed a methdology for working in Google Docs that I find makes for a more conducive editorial experience. I have described it in detail [here](https://medium.com/daniels-tech-world/a-way-to-comfortably-work-with-clients-in-google-docs-daa199efc50f?source=friends_link&sk=6ab99ed69b0835f9e3c938425f8863c9). But these are the essential points.
