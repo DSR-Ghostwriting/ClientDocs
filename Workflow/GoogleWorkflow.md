@@ -36,3 +36,18 @@ Once the piece has been moved in I will notify you via the email collaborators f
 
 ![](/Workflow/Images/4.png)
 
+## 4. Collect Feedback and Let Me Know
+
+Now the ball is in your court.
+
+Please organize internally to collect the feedback from whatever stakeholders you deem necessary. 
+
+When you have finished leaving comments and tracked changes please let me know.
+
+I wlil then copy the documents — with suggestions and changes — back into my unshared folder. There, I will be able to action your changes while you will not be able to access the updated draft in progress.
+
+![](/Workflow/Images/5.png)
+
+The process repeats iteratively until the final draft is arrived at. 
+
+
